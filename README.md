@@ -3,7 +3,7 @@ Hello, I’m Freddie and I’ve been working on an agile information app for air
 
 README: the search feature MAY NOT work as intended if the files are incorrectly installed, to ensure this does not happen please place the executeable file (filghtData.exe) and the csv file (airportsData.csv) together in the same folder. In the code repo, they are both stored together in the "application" zip folder where it is reccomended to download the zip, and then run the executeable program from.
 
-With it being from an unverified publisher(me), the executeable may be scanned by any antiviral software running on the user's machine. Upon finishing the scan the program is then ready to use, as antivirus software may block it's ability to read the csv in the meantime of the scan.
+With it being from an unverified publisher(me), the executable may be scanned by any antiviral software running on the user's machine. Upon finishing the scan the program is then ready to use, as antivirus software may block it's ability to read the csv in the meantime of the scan.
 
 All CSV data sourced from "Our Airports" (https://ourairports.com/data/) and then merged into a single flatfile csv so that the data can be searched easily. The use of a CSV file for data storage was due to the fact that the app is to be used without an internet connection, like when flying in an aircraft.   
 
