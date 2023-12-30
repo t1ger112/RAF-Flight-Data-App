@@ -20,3 +20,4 @@ Some airfield searches of the nearly 80,000 stored may still not work correctly,
 
 In the unlikey event that these codes are also not working, please refer to the first readme paragraph as the installation of the app may be incorrect.
 
+The "all code files" folder contains a copy of the python and VB source code, along with their respective csv files, and a zipped copy of the Visual Studio code repo for the solution. I hope you like the prototype I have created...
